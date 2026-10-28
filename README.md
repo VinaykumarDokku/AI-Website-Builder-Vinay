@@ -433,3 +433,14 @@ Special thanks to these amazing projects and teams:
   
 </div>
 
+
+## Development Notes
+
+This repository is my development copy of the AI Website Builder
+originally created by Ratna Babu.
+
+### Planned Improvements
+- Explore and document the application architecture.
+- Improve local development setup instructions.
+- Test and enhance the website-building experience.
+
