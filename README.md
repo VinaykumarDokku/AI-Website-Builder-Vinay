@@ -444,3 +444,24 @@ originally created by Ratna Babu.
 - Improve local development setup instructions.
 - Test and enhance the website-building experience.
 
+
+## Development and Contribution Guide
+
+This repository is a development copy of the AI Website Builder
+originally created by Ratna Babu.
+
+### Contribution Workflow
+
+1. Review the existing application structure.
+2. Create a separate branch for new features.
+3. Implement and test changes locally.
+4. Review changes before committing.
+5. Document new features and fixes.
+
+### Planned Improvements
+
+- Improve installation documentation.
+- Enhance application error handling.
+- Add automated tests for important features.
+- Improve user interface accessibility.
+
